@@ -1,6 +1,11 @@
-Thanks for downloading this template!
+Bienvenidos a Micosas!
 
-Template Name: Yummy
-Template URL: https://bootstrapmade.com/yummy-bootstrap-restaurant-website-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Nombre: Micosas
+Dirección URL:
+Autores:
+         Wilfredo Armando Ac Reyes
+         Alfredo Marcopoulus Chen Cú
+         Erwin Romeo Tiul Tení
+         Abner Alejandor Caal Morales
+
+Licencia: https://bootstrapmade.com/license/
