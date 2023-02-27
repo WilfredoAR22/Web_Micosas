@@ -18,9 +18,9 @@
 
 /* Colors */
 :root {
-  --color-default: #212529;
-  --color-primary: #ce1212;
-  --color-secondary: #37373f;
+  --color-default: #294868;
+  --color-primary: #ce12b5;
+  --color-secondary: #0d0d0e;
 }
 
 /* Smooth scroll behavior */
@@ -64,7 +64,7 @@ section {
 }
 
 .section-bg {
-  background-color: #eee;
+  background-color: #89f55f;
 }
 
 .section-header {
@@ -78,7 +78,7 @@ section {
   font-weight: 400;
   margin: 0;
   padding: 0;
-  color: #7f7f90;
+  color: #080808;
   text-transform: uppercase;
   font-family: var(--font-default);
 }
@@ -172,7 +172,7 @@ section {
 
 .scroll-top i {
   font-size: 24px;
-  color: #fff;
+  color: #dde71e;
   line-height: 0;
 }
 
